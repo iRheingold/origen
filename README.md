@@ -18,3 +18,4 @@ y los colaboradores o miembros podran hacer un fork a sus cuentas personales.
 ### Creación del Fork
 
 Crear sesión en GitHub e ingresar al proyecto que quieras Forkear.
+Abrir en VS Code el proyecto.
