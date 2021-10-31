@@ -19,3 +19,17 @@ y los colaboradores o miembros podran hacer un fork a sus cuentas personales.
 
 Crear sesión en GitHub e ingresar al proyecto que quieras Forkear.
 Abrir en VS Code el proyecto.
+
+## Como trabajar con las ramas remotas
+
+Listar remotos.
+
+`git remote -v`
+
+Agregar remotos.
+
+`Git remote add Rheingold https://github.com/iRheingold/origen.git`
+
+Eliminar remotos.
+
+`git remote remove Rheingold`
