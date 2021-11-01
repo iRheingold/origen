@@ -33,3 +33,9 @@ Agregar remotos.
 Eliminar remotos.
 
 `git remote remove Rheingold`
+
+## Creando etiquetas
+
+Solo de rama master.
+
+Para enternder como llamar o categorizar las versiones busca en internet xd
